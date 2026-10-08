@@ -108,15 +108,5 @@ Ce dépôt contient le dossier complet d'analyse pour la conception du système 
 
 ---
 
-## 5. Instructions pour la Conception Ultérieure (Équipe Ingénierie)
 
-À l'attention de l'étudiant / développeur chargé des étapes suivantes :
-
-1. **Graphe des Dépendances Fonctionnelles (GDF) :** Isoler les identifiants candidats et construire les dépendances directes.
-2. **Modèle Conceptuel des Données (MCD) :**
-   * Respecter la **3ème Forme Normale (3FN)**.
-   * Traiter la distinction `Particulier` / `Entreprise` pour éviter les valeurs nulles.
-   * Historiser les tarifs au niveau des lignes de contrats/options pour empêcher les effets de rétroactivité.
-3. **Modèle Logique des Données (MLD) :** Dériver les tables relationnelles, clés primaires (PK) et étrangères (FK).
-4. **Base de Données (SQL) :** Produire le script DDL (`CREATE TABLE`, clés et contraintes).
 
