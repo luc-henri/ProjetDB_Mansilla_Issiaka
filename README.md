@@ -107,6 +107,7 @@ Ce dépôt contient le dossier complet d'analyse pour la conception du système 
 | Montant total TTC facturé au client | Numérique (décimal) | 8 |
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/672c471e-b8c8-4a89-b610-aa919210bb2e" />
 
 
 
