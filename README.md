@@ -109,5 +109,6 @@ Ce dépôt contient le dossier complet d'analyse pour la conception du système 
 ---
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/672c471e-b8c8-4a89-b610-aa919210bb2e" />
 
+<img width="1600" height="900" alt="WhatsApp Image 2026-10-30 at 11 12 31" src="https://github.com/user-attachments/assets/6f28b713-c3ff-4ef7-aad5-6928b7941b78" />
 
 
