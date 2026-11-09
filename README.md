@@ -163,7 +163,8 @@ Coût = $50 \times 10 = 500$ instructions.
 Étape 3 - Projection : On extrait les 2 colonnes sur les 5 lignes issues de la jointure.
 Coût = 5 instructions.
 Coût total de l'Arbre 2 = 605 instructions
-4. Conclusion
+
+5. Conclusion
 Le plan d'exécution représenté par l'Arbre 2 est largement optimisé. En exécutant l'opérateur de sélection en premier, le volume de données transitant vers l'opérateur de jointure est drastiquement réduit (de 100 à 10 lignes pour la table de réservation).
 Le nombre total d'instructions passe ainsi de 5 055 à 605, ce qui rend la requête beaucoup plus performante et nettement moins gourmande en ressources pour le SGBD.
 
